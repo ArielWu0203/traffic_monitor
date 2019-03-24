@@ -9,5 +9,5 @@ $ sudo python linear_net.py -n number
 ```
 
 ```=
-$ ryu-manager monitor.py
+$ ryu-manager flow_stats.py
 ```
